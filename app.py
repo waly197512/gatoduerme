@@ -39,7 +39,7 @@ with col1:
     st.title("TU COMPAÑÍA PERFECTA '동반자'")
     st.write("Responde unas breves preguntas y descubre qué mascota es ideal para ti junto con un lema especial.")
 with col2:
-    st.image("media\sonreir.png", width=150)  # Asegúrate de tener esta imagen en la carpeta media
+    st.image("media/sonreir.png", width=150)  # Asegúrate de tener esta imagen en la carpeta media
 
 # 3. FORMULARIO DE ENTRADA
 st.sidebar.header("Responde el cuestionario:")
